@@ -1,0 +1,87 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+button{
+  cursor:pointer;
+}
+
+.title {
+  text-align: center;
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: 500px;
+  font-size: 50px;
+}
+.section1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.pic1 img {
+  width: 400px;
+}
+.left-side {
+  width: 50%;
+  margin-right: 20px;
+  text-align: justify;
+}
+.topbutton {
+  padding: 20px 70px;
+  border-radius: 5px;
+  background-image: linear-gradient(60deg, white, black, white);
+  font-size: 18px;
+  font-weight: bold;
+  color: #fff;
+  border: none;
+  margin-top: 15px;
+}
+.section2 {
+  text-align: center;
+  width: 90%;
+  margin: auto;
+  padding: 50px;
+}
+.mw {
+  width: 300px;
+  /* border: 1px solid gray; */
+
+  border-radius: 5px;
+  box-shadow: 4px 4px 12px gray;
+}
+.photo img {
+  width: 100%;
+}
+.second-section {
+  padding: 10px;
+}
+.all-games {
+  display: flex;
+  align-items: space-around;
+  justify-content: space-around;
+}
+.description {
+  text-align: justify;
+}
+.btn2 {
+  padding: 10px 30px;
+  border: none;
+  background-color: black, white;
+  font: 16px;
+}
+
+.footer-content {
+  margin-top: 20px;
+}
+.footer-content {
+  text-align: center;
+}
+.color{
+  color: red;
+  text-align: justify;
+}
+.section3 {
+  text-align: center;
+  width: 90%;
+  margin: auto;
+  padding: 50px;
+}
